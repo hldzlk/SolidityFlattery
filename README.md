@@ -18,5 +18,6 @@ solidity-flat -input mainfile.sol -output consolidated
 ```
 
 ## Original Info
-You can find original repository at [here](https://github.com/akombalabs/SolidityFlattery).
-[original readme](./readme.bak.md) 
+You can find original repository at [here](https://github.com/akombalabs/SolidityFlattery).
+
+[original readme](./readme.bak.md)
